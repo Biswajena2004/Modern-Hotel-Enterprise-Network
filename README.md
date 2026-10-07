@@ -1,4 +1,5 @@
-<img width="1442" height="660" alt="Topology" src="https://github.com/user-attachments/assets/2182ae5d-aae8-42a0-93a9-05b40cf9b414" />
+<img width="1718" height="676" alt="Topology" src="https://github.com/user-attachments/assets/94c8279d-de1f-4ee5-8443-78a62dba959e" />
+
 # Modern-Hotel-Enterprise-Network
 Designed and implemented a 3-floor enterprise hotel network in Cisco Packet Tracer featuring VLAN segmentation, inter-VLAN routing, OSPF, DHCP, SSH, Serial DCE, wireless networking, port security, sticky MAC, printers, and end-to-end connectivity testing across 8 departments.
 
